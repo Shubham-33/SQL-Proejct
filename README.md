@@ -15,7 +15,9 @@ In my role as an eCommerce Database Analyst at Maven Fuzzy Factory, I undertook 
 **Key Observations & Insights:**
 
 **Gsearch Traffic Analysis:** Gsearch consistently stood out as the primary traffic source, with notable growth in paid search efforts. Organic and direct sources also played a consistent role.
+
 **Conversion Rates & Trends:** Conversion rates displayed stability over the years, with variations in different months pointing to areas of optimization.
+
 **Funnel Analysis - Landing Pages:** Click-through rates varied across stages, with both custom landing page and homepage users showing distinct engagement patterns.
 
 Through this project, I have demonstrated my ability to extract actionable insights from complex datasets, aiding Maven Fuzzy Factory's growth trajectory through informed strategies and optimizations.
